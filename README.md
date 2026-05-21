@@ -8,7 +8,7 @@ Public manifest URL after GitHub Pages is enabled:
 https://mzare47.github.io/date-tool-data/manifest.json
 ```
 
-The app reads `manifest.json`, checks app/data compatibility, then downloads the declared JSON files.
+The root `manifest.json` points to the latest compatible zip package. The app downloads the zip, verifies its SHA-256 checksum, extracts it, and validates the extracted JSON files using the manifest file declarations.
 
 ## Current test package
 
@@ -19,6 +19,7 @@ The app reads `manifest.json`, checks app/data compatibility, then downloads the
 
 ## Files
 
-- `manifest.json`: package metadata, compatibility, file paths, and SHA-256 checksums.
-- `occasion_catalog.json`: holiday and occasion catalog.
-- `school_holidays.json`: school holiday catalog.
+- `manifest.json`: latest package pointer and compatibility metadata.
+- `packages.json`: package history index for manual testing and rollback references.
+- `packages/1.0.1-test1/manifest.json`: versioned package metadata.
+- `packages/1.0.1-test1/date_tool_data_1.0.1-test1.zip`: versioned data package archive.

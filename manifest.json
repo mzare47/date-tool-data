@@ -1,10 +1,14 @@
 {
     "schemaVersion":  1,
     "packageVersion":  "1.0.1-test1",
-    "publishedAt":  "2026-05-21T08:12:57.345Z",
+    "publishedAt":  "2026-05-21T09:39:05.061Z",
     "minSupportedAppDataSchema":  1,
     "minSupportedAppVersion":  "1.0.0",
     "maxSupportedAppVersionExclusive":  "2.0.0",
+    "packageFile":  {
+                        "path":  "packages/1.0.1-test1/date_tool_data_1.0.1-test1.zip",
+                        "sha256":  "9dddbf3f6e32f3a8ab7a48262a3ed02020da5dc5d96672f4a1f2f3fb22264ed4"
+                    },
     "files":  {
                   "occasionCatalog":  {
                                           "path":  "occasion_catalog.json",

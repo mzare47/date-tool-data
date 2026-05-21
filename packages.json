@@ -1,0 +1,13 @@
+{
+    "packages":  [
+                     {
+                         "packageVersion":  "1.0.1-test1",
+                         "publishedAt":  "2026-05-21T09:39:05.061Z",
+                         "manifestUrl":  "packages/1.0.1-test1/manifest.json",
+                         "packageUrl":  "packages/1.0.1-test1/date_tool_data_1.0.1-test1.zip",
+                         "minSupportedAppVersion":  "1.0.0",
+                         "maxSupportedAppVersionExclusive":  "2.0.0",
+                         "notes":  "Initial zip-based test data package."
+                     }
+                 ]
+}
