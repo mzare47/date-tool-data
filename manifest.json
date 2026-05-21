@@ -1,0 +1,18 @@
+{
+    "schemaVersion":  1,
+    "packageVersion":  "1.0.1-test1",
+    "publishedAt":  "2026-05-21T08:12:57.345Z",
+    "minSupportedAppDataSchema":  1,
+    "minSupportedAppVersion":  "1.0.0",
+    "maxSupportedAppVersionExclusive":  "2.0.0",
+    "files":  {
+                  "occasionCatalog":  {
+                                          "path":  "occasion_catalog.json",
+                                          "sha256":  "d6823b829dbcc955bb988b2a11c60204710e31eee9c5cff598057b461684b14b"
+                                      },
+                  "schoolHolidays":  {
+                                         "path":  "school_holidays.json",
+                                         "sha256":  "c41885e4517dcc20e86ffb8c1e7996aa82ceabde068572c4bc8394c4fdb3e681"
+                                     }
+              }
+}

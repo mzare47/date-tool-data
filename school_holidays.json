@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "scopes": [
+    {
+      "countryCode": "IR",
+      "label": "Iran",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "DE",
+      "label": "Germany",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "BW",
+      "label": "Baden-Wuerttemberg",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "BY",
+      "label": "Bavaria",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "BE",
+      "label": "Berlin",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "BB",
+      "label": "Brandenburg",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "HB",
+      "label": "Bremen",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "HH",
+      "label": "Hamburg",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "HE",
+      "label": "Hesse",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "MV",
+      "label": "Mecklenburg-Vorpommern",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "NI",
+      "label": "Lower Saxony",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "NW",
+      "label": "North Rhine-Westphalia",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "RP",
+      "label": "Rhineland-Palatinate",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "SL",
+      "label": "Saarland",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "SN",
+      "label": "Saxony",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "ST",
+      "label": "Saxony-Anhalt",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "SH",
+      "label": "Schleswig-Holstein",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "TH",
+      "label": "Thuringia",
+      "level": "region",
+      "parentScopeKey": "DE"
+    },
+    {
+      "countryCode": "NL",
+      "label": "Netherlands",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "NL",
+      "regionCode": "N",
+      "label": "North",
+      "level": "region",
+      "parentScopeKey": "NL"
+    },
+    {
+      "countryCode": "NL",
+      "regionCode": "C",
+      "label": "Central",
+      "level": "region",
+      "parentScopeKey": "NL"
+    },
+    {
+      "countryCode": "NL",
+      "regionCode": "S",
+      "label": "South",
+      "level": "region",
+      "parentScopeKey": "NL"
+    },
+    {
+      "countryCode": "FR",
+      "label": "France",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "FR",
+      "regionCode": "A",
+      "label": "Zone A",
+      "level": "region",
+      "parentScopeKey": "FR"
+    },
+    {
+      "countryCode": "FR",
+      "regionCode": "B",
+      "label": "Zone B",
+      "level": "region",
+      "parentScopeKey": "FR"
+    },
+    {
+      "countryCode": "FR",
+      "regionCode": "C",
+      "label": "Zone C",
+      "level": "region",
+      "parentScopeKey": "FR"
+    },
+    {
+      "countryCode": "TR",
+      "label": "Turkey",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "US",
+      "label": "United States",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "CA",
+      "label": "Canada",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "AU",
+      "label": "Australia",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "SA",
+      "label": "Saudi Arabia",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "IT",
+      "label": "Italy",
+      "level": "country",
+      "isDefault": true
+    },
+    {
+      "countryCode": "JP",
+      "label": "Japan",
+      "level": "country",
+      "isDefault": true
+    }
+  ],
+  "entries": []
+}

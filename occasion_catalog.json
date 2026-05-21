@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "scopes": [
+    {
+      "countryCode": "IR",
+      "label": "Iran",
+      "isDefault": true
+    },
+    {
+      "countryCode": "DE",
+      "label": "Germany"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "BW",
+      "parentCountryCode": "DE",
+      "label": "Baden-Württemberg"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "BY",
+      "parentCountryCode": "DE",
+      "label": "Bavaria"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "BE",
+      "parentCountryCode": "DE",
+      "label": "Berlin"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "BB",
+      "parentCountryCode": "DE",
+      "label": "Brandenburg"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "HB",
+      "parentCountryCode": "DE",
+      "label": "Bremen"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "HH",
+      "parentCountryCode": "DE",
+      "label": "Hamburg"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "HE",
+      "parentCountryCode": "DE",
+      "label": "Hesse"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "MV",
+      "parentCountryCode": "DE",
+      "label": "Mecklenburg-Vorpommern"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "NI",
+      "parentCountryCode": "DE",
+      "label": "Lower Saxony"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "NW",
+      "parentCountryCode": "DE",
+      "label": "North Rhine-Westphalia"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "RP",
+      "parentCountryCode": "DE",
+      "label": "Rhineland-Palatinate"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "SL",
+      "parentCountryCode": "DE",
+      "label": "Saarland"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "SN",
+      "parentCountryCode": "DE",
+      "label": "Saxony"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "ST",
+      "parentCountryCode": "DE",
+      "label": "Saxony-Anhalt"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "SH",
+      "parentCountryCode": "DE",
+      "label": "Schleswig-Holstein"
+    },
+    {
+      "countryCode": "DE",
+      "regionCode": "TH",
+      "parentCountryCode": "DE",
+      "label": "Thuringia"
+    },
+    {
+      "countryCode": "CA",
+      "label": "Canada"
+    },
+    {
+      "countryCode": "US",
+      "label": "United States"
+    },
+    {
+      "countryCode": "AU",
+      "label": "Australia"
+    },
+    {
+      "countryCode": "IT",
+      "label": "Italy"
+    },
+    {
+      "countryCode": "FR",
+      "label": "France"
+    },
+    {
+      "countryCode": "NL",
+      "label": "Netherlands"
+    },
+    {
+      "countryCode": "JP",
+      "label": "Japan"
+    },
+    {
+      "countryCode": "TR",
+      "label": "Turkey"
+    },
+    {
+      "countryCode": "EN",
+      "label": "England"
+    },
+    {
+      "countryCode": "SA",
+      "label": "Saudi Arabia"
+    }
+  ],
+  "entries": []
+}
